@@ -1,7 +1,3 @@
-# Happy Birthday
 
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
-
-An easy to deploy, Happy Birthday animation design TEMPLATE.
-
-View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
+# birthday-greeting
+>>>>>>> acf64925d6b399a59bb42adb35f4186f1d310ed8
