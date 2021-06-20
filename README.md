@@ -9,4 +9,6 @@ A simple webiste that wishes Happy birthday in an interactive manner
   <li>Javascript</li>
   </ul>
   
+  ### LINK: https://imsankalp.github.io/birthday-greeting/
+  
   
